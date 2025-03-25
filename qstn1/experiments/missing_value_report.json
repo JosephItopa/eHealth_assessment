@@ -1,0 +1,54 @@
+<class 'pandas.core.frame.DataFrame'>
+Index: 75416 entries, 0 to 109926
+Data columns (total 47 columns):
+ #   Column                                     Non-Null Count  Dtype  
+---  ------                                     --------------  -----  
+ 0   Sex                                        73978 non-null  object 
+ 1   Birth Year                                 63089 non-null  float64
+ 2   Chest pain                                 40372 non-null  object 
+ 3   Chills or sweats                           23110 non-null  object 
+ 4   Confused or disoriented                    21579 non-null  object 
+ 5   Cough                                      40370 non-null  object 
+ 6   Diarrhea                                   40345 non-null  object 
+ 7   Difficulty breathing or Dyspnea            23098 non-null  object 
+ 8   Digested blood or coffee grounds in vomit  1397 non-null   object 
+ 9   Pain behind eyes or Sensitivity to light   1405 non-null   object 
+ 10  Bleeding from the eyes                     1397 non-null   object 
+ 11  Fatigue or general weakness                40319 non-null  object 
+ 12  Fever                                      40382 non-null  object 
+ 13  Fluid in the lung cavity                   1404 non-null   object 
+ 14  Fluid in lung cavity in auscultation       21679 non-null  object 
+ 15  Fluid in cavity through X-Ray              21669 non-null  object 
+ 16  Bleeding of the gums                       1397 non-null   object 
+ 17  Headache                                   40330 non-null  object 
+ 18  Joint pain or arthritis                    23082 non-null  object 
+ 19  Thorax (sore throat)                       38923 non-null  object 
+ 20  Malaise                                    3005 non-null   object 
+ 21  Muscle pain                                21686 non-null  object 
+ 22  Nausea                                     38930 non-null  object 
+ 23  Other clinical symptoms                    21668 non-null  object 
+ 24  Pharyngeal exudate                         2998 non-null   object 
+ 25  Rapid breathing                            21088 non-null  object 
+ 26  Runny nose                                 38934 non-null  object 
+ 27  Maculopapular rash                         19286 non-null  object 
+ 28  Sore throat or pharyngitis                 38923 non-null  object 
+ 29  Bleeding or bruising                       19286 non-null  object 
+ 30  Vomiting                                   38924 non-null  object 
+ 31  Abnormal lung X-Ray findings               21819 non-null  object 
+ 32  Conjunctivitis                             18653 non-null  object 
+ 33  Acute respiratory distress syndrome        21785 non-null  object 
+ 34  Pneumonia (clinical or radiologic)         21671 non-null  object 
+ 35  Loss of Taste                              38092 non-null  object 
+ 36  Loss of Smell                              38083 non-null  object 
+ 37  Cough with sputum                          20435 non-null  object 
+ 38  Cough with heamoptysis                     20434 non-null  object 
+ 39  Enlarged lymph nodes                       19300 non-null  object 
+ 40  Wheezing                                   19280 non-null  object 
+ 41  Skin ulcers                                19278 non-null  object 
+ 42  Inability to walk                          19287 non-null  object 
+ 43  Indrawing of chest wall                    19278 non-null  object 
+ 44  Other complications                        19205 non-null  float64
+ 45  Specify other complications                5 non-null      object 
+ 46  Result                                     75416 non-null  object 
+dtypes: float64(2), object(45)
+memory usage: 27.6+ MB
